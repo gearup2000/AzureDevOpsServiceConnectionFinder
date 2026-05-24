@@ -1,8 +1,5 @@
 # Azure DevOps Service Connection Finder
 
-<!-- Cover image — replace the line below with your screenshot -->
-![Azure DevOps Service Connection Finder GUI Version](GUI_version_main_window.jpg)
-
 ---
 
 ## Overview
@@ -98,7 +95,7 @@ $env:AZDO_ORG_SERVICE_URL = 'https://dev.azure.com/MyOrg'
 ### `Find-ServiceConnection.GUI.ps1` — GUI version
 
 A Windows Forms application. Run without any arguments — all input is done through the UI.
-
+![Azure DevOps Service Connection Finder GUI Version](GUI_version_main_window.jpg)
 ```powershell
 .\Find-ServiceConnection.GUI.ps1
 ```
