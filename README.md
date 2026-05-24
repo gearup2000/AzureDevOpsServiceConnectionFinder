@@ -1,8 +1,5 @@
 # Azure DevOps Service Connection Finder
 
-> **Author:** Magomedbashir Kushtov — [github.com/gearup2000](https://github.com/gearup2000)  
-> **License:** MIT — free to use, modify, and distribute.
-
 <!-- Cover image — replace the line below with your screenshot -->
 ![Azure DevOps Service Connection Finder GUI Version](GUI_version_main_window.jpg)
 
